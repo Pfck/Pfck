@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pfck
+- 👋 Hi, I’m @Pfck , Paula Kruger Gaubin!
 - 👀 I’m interested in web design, UX , web développement and design graphique.
 - 🌱 I’m currently learning développement web in France
 - 💞️ I’m looking to collaborate on web design and user experience.
